@@ -45,6 +45,8 @@ Includes the charts I deliberately rejected and why, because the cut list is the
 | [docs/assumptions-and-open-questions.md](docs/assumptions-and-open-questions.md) | What I assumed in the absence of a real customer, and the questions I would take into week two |
 | [prototype/](prototype/) | Clickable prototype of the Part 1 screen (React + Recharts, seeded mock data) |
 
+**Live demo:** https://kathiariswapnil.github.io/shadow-ai-governance-dashboard/
+
 ## Running the prototype
 
 ```bash
