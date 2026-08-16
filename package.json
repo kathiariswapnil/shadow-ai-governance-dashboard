@@ -1,0 +1,16 @@
+{
+  "name": "shadow-ai",
+  "version": "1.0.0",
+  "description": "**Candidate:** Swapnil Kathiari **Role framing:** Product Manager / Product Owner, week one of scoping",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
+}
